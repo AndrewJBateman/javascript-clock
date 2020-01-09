@@ -1,5 +1,6 @@
 html {
-  background: #018DED url(https://images.freeimages.com/images/large-previews/5eb/more-photo-file-2-1169682.jpg);
+  /* background: #018DED url(https://images.freeimages.com/images/large-previews/5eb/more-photo-file-2-1169682.jpg); */
+  background: #018DED url(./background.jpg);
   background-size: cover;
   font-family: 'helvetica neue';
   text-align: center;
@@ -36,7 +37,7 @@ body {
 .hand {
   width: 50%;
   height: 6px;
-  background: black;
+  background: rgb(33, 247, 5);
   position: absolute;
   top: 50%;
   transform-origin: 100%;
