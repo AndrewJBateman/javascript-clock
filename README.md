@@ -1,8 +1,12 @@
 # :zap: Javascript Clock
 
-Wes Bos Youtube Tutorial: [We build a CSS + JS Clock in Vanilla JS — #JavaScript30 2/30](https://www.youtube.com/watch?v=xu87YWbr4X0&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=2).
+* Wes Bos Youtube Tutorial: [We build a CSS + JS Clock in Vanilla JS — #JavaScript30 2/30](https://www.youtube.com/watch?v=xu87YWbr4X0&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=2).
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-*** Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/javascript-clock?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/javascript-clock?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/javascript-clock?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/javascript-clock?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -16,6 +20,7 @@ Wes Bos Youtube Tutorial: [We build a CSS + JS Clock in Vanilla JS — #JavaScri
   * [:cool: Features](#cool-features)
   * [:clipboard: Status & To-Do List](#clipboard-status--to-do-list)
   * [:clap: Inspiration](#clap-inspiration)
+  * [:file_folder: License](#file_folder-license)
   * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
@@ -59,7 +64,7 @@ function setDate() {
 
 ## :cool: Features
 
-* Uses cubic-bezier css library for ease-in and ease-out of ticking clock hands.
+* Uses cubic-bezier CSS library for ease-in and ease-out of ticking clock hands.
 
 ## :clipboard: Status & To-Do List
 
@@ -70,6 +75,10 @@ function setDate() {
 
 * [We build a CSS + JS Clock in Vanilla JS — #JavaScript30 2/30](https://www.youtube.com/watch?v=xu87YWbr4X0&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=2).
 
+## :file_folder: License
+
+* N/A
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
